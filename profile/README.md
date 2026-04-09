@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.aevonx.app/images/logo.png" alt="AevonX" width="80" height="80" style="border-radius: 16px;" />
+<img src="https://aevonx.app/images/logo.png" alt="AevonX" width="80" height="80" style="border-radius: 16px;" />
 
 # AevonX
 
